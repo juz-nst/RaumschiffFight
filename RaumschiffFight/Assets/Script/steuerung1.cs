@@ -1,11 +1,11 @@
 ﻿
 using UnityEngine;
 using System.Collections;
-using System.Collections.Generic
+using System.Collections.Generic;
  
 
 
-public class steuerung1 : MonoBehaviour {
+public class Steuerung1 : MonoBehaviour {
 
     public float speed = 5;
     Rigidbody2D rb; 
